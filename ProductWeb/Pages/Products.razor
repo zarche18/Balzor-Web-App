@@ -1,0 +1,75 @@
+﻿@page "/products"
+@inherits ProductBase
+@inject HttpClient httpClient
+@inject IModalService modalservice
+
+
+  <h3>Products</h3>
+
+<div class="mb-3">
+    <input type="text" placeholder="Search products..." @bind="searchQuery" />
+    <button class="btn btn-primary" @onclick="Search">Search</button>
+</div>
+
+@if (filteredProducts == null)
+{
+    <h3>Loading the Products...</h3>
+}
+else
+{
+    var sortedProducts = (searchQuery == null || searchQuery.Trim().Length == 0)
+     ? (Products != null ? Products.OrderBy(p => p.Price) : Enumerable.Empty<Product>()) // Sort all products by price
+     : (filteredProducts != null ? filteredProducts.OrderBy(p => p.Price) : Enumerable.Empty<Product>()); // Sort filtered products by price
+
+
+    var productCount = sortedProducts.Count();
+    @if (productCount > 0)
+    {
+        const int itemPerRows = 4;
+        var producsRowList = new List<Product>();
+        @for (int i = 0; i < productCount; i++)
+        {
+            producsRowList = sortedProducts.Skip(i * itemPerRows).Take(itemPerRows).ToList();
+            <div class="row mt-3">
+                @foreach (var item in producsRowList)
+                {
+                    <div class="col-md-3 mb-2">
+                        <div class="card">
+                            <img class="img-thumbnail" src="@item.Image" />
+                        </div>
+                        <div class="carousel-body">
+                            <h5 class="card-title mb-3">
+                                @item.Name
+                            </h5>
+                            <p class="card-text">
+                                <b>@item.Price.ToString("C")</b>
+                            </p>
+                        </div>
+                        <button class="btn btn-primary" @onclick="@(() => ShowProductDetailModal(item.ID))">View Details</button>
+                    </div>
+                }
+            </div>
+        }
+    }
+}
+
+@code {
+    private string searchQuery = ""; // This will store the search query
+    private List<Product> filteredProducts = new List<Product>();
+
+    private void Search()
+    {
+        filteredProducts = Products.Where(p =>
+            p.Name.Trim().Contains(searchQuery.Trim(), StringComparison.OrdinalIgnoreCase) ||
+            p.Description.Trim().Contains(searchQuery.Trim(), StringComparison.OrdinalIgnoreCase)
+        ).ToList();
+    }
+
+    private void ShowProductDetailModal(int productId)
+    {
+        var parameters = new ModalParameters();
+        parameters.Add(nameof(ProductDetail.Id), productId);
+
+        modalservice.Show<ProductDetail>("Product Details Modal", parameters);
+    }
+}

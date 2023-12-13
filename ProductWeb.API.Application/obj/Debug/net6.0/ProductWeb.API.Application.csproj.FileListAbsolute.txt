@@ -1,0 +1,15 @@
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\bin\Debug\net6.0\ProductWeb.API.Application.deps.json
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\bin\Debug\net6.0\ProductWeb.API.Application.dll
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\bin\Debug\net6.0\ProductWeb.API.Application.pdb
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\bin\Debug\net6.0\ProductWeb.API.Core.dll
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\bin\Debug\net6.0\ProductWeb.API.Core.pdb
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.csproj.AssemblyReference.cache
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.AssemblyInfoInputs.cache
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.AssemblyInfo.cs
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.csproj.CoreCompileInputs.cache
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.csproj.CopyComplete
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.dll
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\refint\ProductWeb.API.Application.dll
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ProductWeb.API.Application.pdb
+C:\Users\Zar Chi\source\repos\Blazor\BlazorApp1\ProductWeb\ProductWeb.API.Application\obj\Debug\net6.0\ref\ProductWeb.API.Application.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QRpJ1W27ABRSEloX8hisDi50GavISFElymJWXUG+/iWSf0pbPDzcZ3VGau3yeHYJEubDnbiYiwCy8Q98LyWAg==",
+  "success": true,
+  "projectFilePath": "D:\\ZarChe\\Coding Test\\ProductWeb.API.Application\\ProductWeb.API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

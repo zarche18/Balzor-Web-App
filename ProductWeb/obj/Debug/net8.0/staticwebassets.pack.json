@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\obj\\Debug\\net8.0\\compressed\\3ckd5blq7h.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProductWeb.styles.css",
+      "PackagePath": "staticwebassets\\ProductWeb.styles.css"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Bella Serum Sheet Mask.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Bella Serum Sheet Mask.jpeg"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Perfect Look in a Palette.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Perfect Look in a Palette.jpeg"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Perfume.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Perfume.jpeg"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Superstar Perfect Matte Foundation.png",
+      "PackagePath": "staticwebassets\\Images\\Superstar Perfect Matte Foundation.png"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\TNK-foundation-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\TNK-foundation-3.jpg"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Thanakha Powder Pact.png",
+      "PackagePath": "staticwebassets\\Images\\Thanakha Powder Pact.png"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Thanakha Water Recharging Sleeping Mask - Night Cream - Old.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thanakha Water Recharging Sleeping Mask - Night Cream - Old.jpg"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\Images\\Watermelon Jelly Night Cream.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Watermelon Jelly Night Cream.jpeg"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ZarChe\\Coding Test\\ProductWeb\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductWeb.props",
+      "PackagePath": "build\\ProductWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductWeb.props",
+      "PackagePath": "buildMultiTargeting\\ProductWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductWeb.props",
+      "PackagePath": "buildTransitive\\ProductWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

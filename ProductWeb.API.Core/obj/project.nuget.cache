@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qYa4RvyydjarRJuF3nxwbx/OhCVlCPpBQVRpI+eiouIfPnklGlseegh2CGnPlQS86M8y9XYbBvh1K80V2kPLgw==",
+  "success": true,
+  "projectFilePath": "D:\\ZarChe\\Coding Test\\ProductWeb.API.Core\\ProductWeb.API.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
